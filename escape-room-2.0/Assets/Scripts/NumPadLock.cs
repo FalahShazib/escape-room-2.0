@@ -21,10 +21,6 @@ public class NumPadLock : MonoBehaviour {
         doorCounter = 0;
         deskCounter = 0;
         chestCounter = 0;
-        Debug.Log(doorCode[0]);
-        Debug.Log(doorCode[1]);
-        Debug.Log(doorCode[2]);
-        Debug.Log(doorCode[3]);
     }
 	
 	// Update is called once per frame
